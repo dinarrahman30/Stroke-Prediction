@@ -6,7 +6,7 @@ Username dicoding: dinar_wahyu
 | | Deskripsi |
 | ----------- | ----------- |
 | Dataset | [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) |
-| Masalah | Deskripsi masalah yang di angkat |
+| Masalah | Menurut Organisasi Kesehatan Dunia (WHO), stroke merupakan penyebab kematian terbanyak ke-2 di dunia, yang menyebabkan sekitar 11% dari total kematian. |
 | Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
 | Arsitektur model | Deskripsi arsitektur model yang diguanakan |
