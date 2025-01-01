@@ -5,7 +5,7 @@ Username dicoding: dinar_wahyu
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [nama dataset](https://www.kaggle.com/) |
+| Dataset | [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) |
 | Masalah | Deskripsi masalah yang di angkat |
 | Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
